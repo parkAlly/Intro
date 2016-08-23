@@ -61,4 +61,18 @@
         }
     });
 
+
+    // jeongyoon added..
+    $('.about-ally').mouseover(function() {
+      $('.about-ally').addClass('animated rubberBand');
+    });
+
+
+    $('.about-ally').mouseleave(function() {
+      $('.about-ally').removeClass('animated rubberBand');
+    });
+
+
+
+
 })(jQuery); // End of use strict
