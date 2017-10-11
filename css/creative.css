@@ -154,8 +154,8 @@ header{
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-position: center;
-  background-image: url('../img/laptop.jpg');
+  background-position: inherit;
+  background-image: url('../img/IMG_2744.JPG');
   text-align: center;
   color: white;
 }
