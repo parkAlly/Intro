@@ -1,1 +1,1 @@
-CLICK >>  https://parkally.github.io/Intro/
+https://parkally.github.io/Intro/
